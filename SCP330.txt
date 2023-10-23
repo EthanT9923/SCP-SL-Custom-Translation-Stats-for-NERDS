@@ -1,0 +1,22 @@
+Candies
+<color=#FFFF00>⦿</color>Rainbow Candy
+Its a hard piece of rock candy, packed with all sorts of flavours.
+<size=15>Heals <color=#1FFF00>15 HP</color>.\n<size=11><color=#A5FFF7>Invigorated</color> <color=#D8D8D8>(Time Stacks)</color> and reduces <color=#F58060>Negative effects</color> for 5<size=8>s<size=11>.<size=15>\n Permanent <color=#FFEBA7>+5% Bodyshot Reduction</color>. <color=#D8D8D8>(Stacks)</color>\nGain <color=#69E4FF>20 AHP</color> that doesn't decay for 10<size=12>s<size=15>.
+<color=#F7F582>💗</color>Yellow Candy
+The overwhelming smell of lemon makes you cringe a little.
+<size=15>Restores <color=#FEFFC7>25% of Stamina</color>.\n<color=#A5FFF7>Invigorated</color> for 8<size=12>s<size=15>. <color=#D8D8D8>(Time Stacks)</color>\nGain <color=#D8F0FF>+10% Move speed</color> for 8<size=12>s<size=15>. <color=#D8D8D8>(Stacks)</color>
+<color=#C282F7>💗</color>Purple Candy
+It has a juicy grape smell. Your mouth begins to water.
+<size=12>Gain <color=#FFFF00>20% Damage Reduction</color> for 15<size=9>s<size=12>. <color=#D8D8D8>(Time Stacks)</color><size=15>\nHeals <color=#1FFF00>15 HP</color> <size=15>over 10<size=12>s<size=15>.
+<color=#F53D3D>💗</color>Red Candy
+A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong.
+<size=15>Heals <color=#1FFF00>45 HP</color> <size=15>over 5<size=12>s<size=15>.
+<color=#76DC89>💗</color>Green Candy
+A nasty, herbal smell emits from the candy.
+<size=15>Gain <color=#BAFFA9>Vitality</color> for 30<size=12>s<size=15>. <color=#D8D8D8>(Time Stacks)</color>\nHeals <color=#1FFF00>120 HP</color> <size=15>over 80<size=12>s<size=15>.
+<color=#8EB4FF>💗</color>Blue Candy
+It smells soft and sweet, something akin to a marshmallow.
+<size=15>Gain <color=#69E4FF>30 AHP</color> that doesn't decay.
+<color=#F5AAFF>💗</color>Pink Candy
+The strawberry scent is as gentle as it looks.
+- R E D A C T E D -

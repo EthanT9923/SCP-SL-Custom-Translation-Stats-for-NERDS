@@ -1,0 +1,49 @@
+0~<size=32><color=#BCC2F7>⌬</color>Janitor Keycard
+1~<size=28><color=#BCC2F7>⌬</color>Scientist Keycard
+2~<size=20><color=#BCC2F7>⌬</color>Research Supervisor Keycard
+3~<size=25><color=#BCC2F7>⌬</color>Zone Manager Keycard
+4~<size=34><color=#BCC2F7>⌬</color>Guard Keycard
+5~<size=24><color=#BCC2F7>⌬</color>MTF Private Keycard
+6~<size=20><color=#BCC2F7>⌬</color>Containment Engineer Keycard
+7~<size=24><color=#BCC2F7>⌬</color>MTF Operative Keycard
+8~<size=26><color=#BCC2F7>⌬</color>MTF Captain Keycard
+9~<size=22><color=#BCC2F7>⌬</color>Facility Manager Keycard
+10~<size=22><color=#BCF7C2>✳</color>Insurgency Access Device
+11~<size=24><color=#FFFF00>⦿</color>O5-Level Master Keycard
+12~<color=#FFFF00>！</color>Radio~<size=16><color=#2DC955>Short Range:</color> 108<size=13>m<size=16> \n<color=#2DC955>Medium Range:</color> 180<size=13>m<size=16> \n<color=#2DC955>Long Range:</color> 1080<size=13>m<size=16> \n<color=#2DC955>Ultra Range:</color> 7200<size=13>m<size=12> \n<b><color=#F58060>Drains batteries faster</color> at longer ranges.</b>
+13~<size=40><color=#BCC2F7>⌬</color>COM-15
+14~<color=#1FFF00>💗</color>First Aid Kit~Heals your injuries. \n\n<size=15>Heals <color=#1FFF00>65 HP</color>.
+15~？Flashlight~Let there be light!
+16~<color=#FFFF00>⦿</color>Micro H.I.D.~Mobile high-intensity electrical discharge thrower. \n\n<size=15><color=#99F2ED>Blast Damage:</color> 143.75, <color=#99F2ED>DPS:</color> 1150. \n <color=#F58060>-50% Stamina Penalty</color> when held. \n 6<size=12>s<size=15> <color=#FFFF00>Charge-up Time</color>. \n <color=#C3CBEB>6.3m</color> Range.
+17~<color=#FFFF00>⦿</color>SCP-500~The panacea. \n\n<size=15>Heals <color=#1FFF00>100 HP</color>. \nHeals <color=#1FFF00>100 HP</color> <size=15>over 10<size=12>s<size=15>.</color> \n<size=15><color=#FFFF00>Cures</color> status effects.
+18~<color=#FFFF00>⦿</color>SCP-207~Harmfully increases motor skills. \n\n<size=14>Heals <color=#1FFF00>30 HP</color>. \n<size=14><color=#FA7979>+20% Move Speed</color> (1 stack) \n<color=#FA7979>+38% Move Speed</color> (2 stacks) \n<color=#FA7979>+50% Move Speed</color> (3 stacks) \n<color=#FA7979>+56% Move Speed</color> (4 stacks)
+20~<size=40><color=#BCC2F7>⌬</color>MTF-E11-SR
+21~<size=40><color=#BCC2F7>⌬</color>Crossvec
+23~<size=40><color=#BCC2F7>⌬</color>FSP-9
+24~<color=#BCF7C2>✳</color>Logicer
+25~<color=#FFFF00>！</color>HE Grenade~Boom!<size=14> \n\n<b>Fuse time: 3.5<size=12>s</b> \n\n<size=16><b>Damage:</b> \n<size=14><color=#DA1010>900</color> <color=#FF8E8E>to SCP'<size=10>s <size=14>(</color><size=10><color=#DA1010>x<size=14>2</color> <size=10><color=#FF8E8E>to <size=14>HS)</color> \n<color=#DA1010>300</color> <color=#FF8E8E>to human'<size=10>s</color> \n<size=16><b>Effects:</b> \n<size=14><color=#F9B174>Burned \nConcussed \nDeafen</color>
+26~<color=#FFFF00>！</color>Flashbang Grenade~Blinds your enemies.<size=14> \n\n<b>Fuse time: 2.8<size=12>s</b> \n\n<size=16><b>Effects:</b> \n<size=14><color=#C6E1E0>Flashed \nDeafen</color>
+30~<size=40><color=#BCC2F7>⌬</color>COM-18
+31~<color=#FFFF00>⦿</color>SCP-018~Superball able to bounce with extreme efficiency. \n\n<size=14><color=#F58060>Explodes</color> after 80 seconds. \n Could activate if <color=#F58060>dropped</color>. \n<size=12>10<size=9>s<size=12> <color=#B0FF95>grace period</color> before being able to <color=#F58060>damage teammates</color>.
+32~<color=#FFFF00>⦿</color>SCP-268~When worn, temporarily makes you invisible unless it is interrupted by any user interaction. \n\n<size=18><color=#DAADEA>Invisibility</color> for 15<size=12>s<size=18>. \n<color=#FFFF00>2 minute cooldown</color>
+33~<color=#69E4FF>💗</color>Adrenaline~Temporarily increases endurance. \n\n<size=15>Gain <color=#69E4FF>40 AHP</color>. \n<size=15><color=#A5FFF7>Invigorated</color> for 8<size=12>s<size=15>.
+34~<color=#1FFF00>💗</color>Painkillers~Relieve minor injuries. \n\n<size=15>Heals <color=#1FFF00>50 HP</color> <size=15>over 15<size=12>s<size=15>.
+35~？Coin~You're not sure why you'd want to carry this around... \n\n<size=10><color=#818181>yes you do.</color>
+36~<size=35><color=#BCC2F7>⌬</color>Guard Vest
+37~<color=#FFFF00>⦿</color>Combat Armor
+38~<color=#FFFF00>⦿</color>Heavy Armor
+39~<color=#BCF7C2>✳</color>.44 Revolver
+40~<color=#BCF7C2>✳</color>AK
+41~<color=#BCF7C2>✳</color>Shotgun
+42~<color=#FFFF00>⦿</color>Bag of Candies~A bag containing the following candies:
+43~<color=#FFFF00>⦿</color>SCP-2176~Your very own Ghostlight! Caution, very fragile... \n\n<size=15><color=#B1ECCB>Lockdown</color> a room for 13<size=11>s<size=15>. \n <color=#B1ECCB>Unlocks</color> rooms in <u>Lockdown</u>. \n<color=#B1ECCB>Stuns</color> SCP-079 for 8<size=9>s<size=12>.
+44~<color=#FFFF00>⦿</color>SCP-244-A~Creates a large cloud of icy fog when placed.<size=14> \n\n<size=14><u>Applies <color=#C3CBEB><b>Hypothermia</b></color></u><size=12> \n<color=#C3CBEB>Weakens</color> Weapon manipulation and movement. \n<color=#F58060>Decays Health/Hume shield</color> over time. \n<color=#C3CBEB>Weakens SCP'<size=9>s</color> <size=12> significantly. \nCan be destroyed by <color=#F58060>explosions</color>.
+45~<color=#FFFF00>⦿</color>SCP-244-B~Creates a large cloud of icy fog when placed.<size=14> \n\n<size=14><u>Applies <color=#C3CBEB><b>Hypothermia</b></color></u><size=12> \n<color=#C3CBEB>Weakens</color> Weapon manipulation and movement. \n<color=#F58060>Decays Health/Hume shield</color> over time. \n<color=#C3CBEB>Weakens SCP'<size=9>s</color> <size=12> significantly. \nCan be destroyed by <color=#F58060>explosions</color>.
+46~<color=#FFFF00>⦿</color>SCP-1853~Improves weapon manipulation skills. \n\n<size=13><color=#B0FF95>+60% Item pickup speed \n+30% ADS Accuracy \n-25% Weapon Recoil \n+25% Weapon reload/unload speed \n-20% ADS time \n-20% Item draw/usage time</color> \n<size=14><color=#D8D8D8>(Hyperbolic Stacking)</color>
+47~<color=#FFFF00>⦿</color>3-X Particle Disruptor
+48~<color=#FFFF00>⦿</color>COM-45
+49~<color=#FFFF00>⦿</color>SCP-1576~Communicate with the dead. \n\n<size=15>Lasts 30 seconds. \n<color=#FFFF00>2 minute cooldown</color>.
+50~<color=#FFFF00>⦿</color>Jailbird~What?! \n\n<size=13><color=#FF847C><u>Normal Attack:</u></color> 50 damage, bypass Armor, AHP, and Hume Shield. \n<color=#FF847C><u>Charged Attack:</u></color> 200 damage, bypass Armor/AHP/Hume Shield, and applies <color=#C6E1E0>flashed</color> for 4<size=10>s<size=13>. \n<color=#F32E21><size=10>x<size=13>4 Damage</color> against SCP-049-2.
+51~<color=#FFFF00>⦿</color>SCP-207?~Opposite day? \n\n\n<size=14>Heals <color=#1FFF00>0 HP</color>. \n<size=14><color=#FA79BD>-9.75% Move Speed</color> (1 stack) \n<color=#FA79BD>-14.74% Move Speed</color> (2 stacks) \n<color=#FA79BD>-19.97% Move Speed</color> (3 stacks) \n<color=#FA79BD>-25.43% Move Speed</color> (4 stacks)
+52~<size=40><color=#BCC2F7>⌬</color>FR-MG-0
+53~<color=#FFFF00>⦿</color>A7
